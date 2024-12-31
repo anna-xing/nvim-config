@@ -10,3 +10,6 @@ vim.cmd("set shiftwidth=2")
 
 -- Show line numbers
 vim.opt.relativenumber = false
+
+-- Wrap lines
+vim.opt.wrap = true
